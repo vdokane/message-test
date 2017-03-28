@@ -1,0 +1,8 @@
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\bin\Debug\wcfQueueTest.dll.config
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\bin\Debug\wcfQueueTest.dll
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\bin\Debug\wcfQueueTest.pdb
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\obj\Debug\wcfQueueTest.csprojResolveAssemblyReference.cache
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\obj\Debug\wcfQueueTest.dll
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\obj\Debug\wcfQueueTest.pdb
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\bin\Debug\nunit.framework.dll
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\wcfQueueTest\bin\Debug\nunit.framework.xml

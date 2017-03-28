@@ -1,0 +1,6 @@
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\testClientForWCFsoap\bin\Debug\testClientForWCFsoap.exe.config
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\testClientForWCFsoap\bin\Debug\testClientForWCFsoap.exe
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\testClientForWCFsoap\bin\Debug\testClientForWCFsoap.pdb
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\testClientForWCFsoap\obj\Debug\testClientForWCFsoap.csprojResolveAssemblyReference.cache
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\testClientForWCFsoap\obj\Debug\testClientForWCFsoap.exe
+C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\testClientForWCFsoap\obj\Debug\testClientForWCFsoap.pdb

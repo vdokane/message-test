@@ -1,0 +1,13 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\okaned\Documents\DavesTestProject\SOAP_Queue_Project\wcfQueueTest\_WCFsoap_publish\">
+    <file relUrl="bin/wcfQueueTest.pdb" publishTime="03/15/2017 09:51:48" />
+    <file relUrl="bin/wcfQueueTest.dll" publishTime="03/15/2017 09:51:48" />
+    <file relUrl="wcfQueueTest.Service1.svc" publishTime="03/15/2017 10:40:20" />
+    <file relUrl="Web.config" publishTime="03/15/2017 09:55:51" />
+    <file relUrl="bin/nunit.framework.xml" publishTime="02/25/2017 10:53:22" />
+    <file relUrl="bin/nunit.framework.dll" publishTime="02/25/2017 10:53:22" />
+    <file relUrl="wcfQueueTest.TestIIS.svc" publishTime="03/15/2017 10:40:20" />
+    <file relUrl="bin/wcfQueueTest.dll.config" publishTime="03/15/2017 09:55:51" />
+    <file relUrl="wcfQueueTest.MessageServicer.svc" publishTime="03/15/2017 10:40:20" />
+  </publishTarget>
+</publishData>
