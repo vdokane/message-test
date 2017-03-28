@@ -1,0 +1,47 @@
+﻿Installing assembly 'C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.InstallLog
+   assemblypath = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe assembly.
+Committing assembly 'C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.InstallLog
+   assemblypath = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.InstallLog
+   assemblypath = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe
+Removing EventLog source VDO_MessageWorker.
+Warning: The source VDO_MessageWorker is not registered on the local machine.
+Service VDO_MessageWorker is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.InstallLog
+   assemblypath = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe
+Rolling back assembly 'C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.InstallLog
+   assemblypath = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe
+Installing assembly 'C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.InstallLog
+   assemblypath = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe
+Installing service VDO_MessageWorker...
+Service VDO_MessageWorker has been successfully installed.
+Creating EventLog source VDO_MessageWorker in log Application...
+Committing assembly 'C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.InstallLog
+   assemblypath = C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe

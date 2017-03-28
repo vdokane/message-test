@@ -1,0 +1,9 @@
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe.config
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.exe
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\bin\Debug\MessageWorker.pdb
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\obj\Debug\MessageWorker.ProjectInstaller.resources
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\obj\Debug\MessageWorker.Service1.resources
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\obj\Debug\MessageWorker.csproj.GenerateResource.Cache
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\obj\Debug\MessageWorker.exe
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\obj\Debug\MessageWorker.pdb
+C:\Users\okaned\Documents\DavesTestProject\MessageListenerProject\MessageWorker\MessageWorker\MessageWorker\obj\Debug\MessageWorker.csprojResolveAssemblyReference.cache
